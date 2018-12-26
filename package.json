@@ -1,6 +1,6 @@
 {
   "name": "node-hashtagify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "API to get trending and related hashtags",
   "main": "index.js",
   "scripts": {
